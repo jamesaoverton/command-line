@@ -107,7 +107,7 @@ The shell listens for your commands, sends them off to a program, waits for a re
 
 ## The Command Prompt
 
-![Simple Streams](images/streams1.pdf)
+![Simple Streams](images/streams1.png)
 
 ## The Command Prompt
 
@@ -474,7 +474,7 @@ You set a variable using `export`.
 
 So far, all our streams of text have had a simple flow:
 
-![Simple Streams](images/streams1.pdf)
+![Simple Streams](images/streams1.png)
 
 ## Three Streams
 
@@ -488,7 +488,7 @@ STDERR is usually merged into STDOUT, so I won't always make the distinction. Bu
 
 ## Three Streams
 
-![Three Streams, Actually](images/streams3.pdf)
+![Three Streams, Actually](images/streams3.png)
 
 ## Output can be Input
 
@@ -510,7 +510,7 @@ The **output** of one program can be the **input** to another.
 
 ## Output can be Input
 
-![Go With the Flow](images/streams2.pdf)
+![Go With the Flow](images/streams2.png)
 
 ## Output can be Input
 
